@@ -62,4 +62,5 @@ tqdm==4.64.1
 traitlets==5.8.1
 wcwidth==0.2.6
 xgboost==1.7.3
-
+anonymizedf==1.0.1
+dataframe_image
